@@ -1,5 +1,5 @@
-# PHP-login-and-publication-systems
-PHP-login and publication systems
+# PHP-and-AJAX-login-add-and-publication-systems
+PHP-and-AJAX-login-add-and-publication-systems
 
 (Users in login system (username, password, admin or not):
 adam, secret1, is admin
